@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/items": {
+      "name": "/items",
+      "lambdaFunction": "reactawsamplify4db34575",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
